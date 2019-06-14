@@ -1,0 +1,1 @@
+Find guide and everything you need from the original authors repo. https://github.com/lilianweng/stock-rnn.git
